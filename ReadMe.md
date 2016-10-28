@@ -6,5 +6,5 @@ Tutorial
     run the worker in the directory above demo):
     ```
     >>> celery -A demo worker -l info
-    ```
+    ```  
    **demo is the dirname of the celery.py**
